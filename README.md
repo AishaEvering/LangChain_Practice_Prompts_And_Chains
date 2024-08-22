@@ -2,7 +2,7 @@
    <img src="https://github.com/AishaEvering/LangChain_Practice_Prompts_And_Chains/blob/main/parrot.jpeg" alt="PyTorch Logo" width="auto" height="300">
 </p>
 
-# LangChain Pratice
+# LangChain Practice
 
 ## Technologies
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
